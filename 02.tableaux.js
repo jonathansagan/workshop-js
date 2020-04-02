@@ -1,4 +1,4 @@
-//TP02 : LES FONCTIONS
+//TP02 : LES FONCTIONS - 
 
 //Ex.1 : forEach() = lecture du tableau
 let villes = ['nantes', 'paris', 'saint-nazaire', 'angers', 'le mans'];
